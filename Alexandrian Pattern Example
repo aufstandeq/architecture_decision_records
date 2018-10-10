@@ -16,7 +16,7 @@ Additional concerns around team members not being aligned on the technologies or
 # DECISION:
 Our recommendation is Light Weight Architectural Design Records. This pattern is documented in the Nov 2016 ThoughtWorks Tech Radar as an adopt. We have found that agile based projects benefit from documentation that can keep pace. ADR's can achieve this by being small and providing one specific decision per record.
 
-The concepquences on this decision are focused to the storage and review of the document. Today, teams spend months writing documetnation that is not referenced later in the project. ADRs are stored with the code at the design level and within the organziations WIKI for enterprise, architectural, and vendor selections.
+The consequences on this decision are focused to the storage and review of the document. Today, teams spend months writing documetnation that is not referenced later in the project. ADRs are stored with the code at the design level and within the organziations WIKI for enterprise, architectural, and vendor selections.
 
 The recommended format is based on the Alexandrian Pattern as seen in this very document. A working template can be found in the WIKI at [add http://]
 
@@ -27,7 +27,7 @@ The Format is --
      - e.g. Data Platform Selection
 
 2. Status
-     - Active, Pending, or Depricated status.
+     - Active, Pending, or Deprecated status.
 
 3. Prologue
      - One Sentence focusing on the purpose of the ADR
@@ -41,10 +41,10 @@ The Format is --
      - Why was this solution selected
      - Describe the facts of the solution
 
-6. Concequences
-     - Are there any short or long term concequences to be aware of? We will still be making this decision with the understanding that this may be a problem to readdress in the future.
+6. Consequences
+     - Are there any short or long term consequences to be aware of? We will still be making this decision with the understanding that this may be a problem to readdress in the future.
 
 
-# CONCEQUENCES
+# CONSEQUENCES
 - Failure to document any of the decisions will lead to confusion and a failure of the overall project.
 - Too much documentation and the teams will be focused on the wrong deliverables -- Documentation of delivery.
