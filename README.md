@@ -2,4 +2,4 @@
 
 Documentation on creating and storing architecture_decision_records (ADRs) on a project
 
-## Outline
+## What is an architecture decision Record or ADR?
